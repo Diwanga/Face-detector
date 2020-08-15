@@ -16,11 +16,12 @@ p {
 
 .center {
   display: flex;
+  justify-content: center;
 }
 button {
   cursor: pointer;
 }
-.Particals{
+.Particals {
   position: fixed;
   z-index: -1;
   bottom: 0;
